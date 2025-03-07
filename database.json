@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "es2016",
+        "surname": "commonjs",
+        "email": "user1@gmail.com",
+        "id": "id_1"
+    },
+    "2": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "email": "ivan.ivanov@gmail.com",
+        "id": "id_2"
+    },
+    "3": {
+        "name": "Biba",
+        "surname": "Boboshvili",
+        "email": "biba@gmail.com",
+        "id": "id_3"
+    },
+    "4": {
+        "name": "Boba",
+        "surname": "Frogovich",
+        "email": "frog.top@gmail.com",
+        "id": "id_4"
+    }
+}
